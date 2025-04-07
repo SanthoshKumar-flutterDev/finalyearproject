@@ -32,7 +32,7 @@ A modern and customizable **portfolio builder** built with Flutter Web. Users ca
 
 
 Signup page
-![image](https://github.com/user-attachments/assets/727076d9-e463-4507-b4de-eb23d558058b)
+![image](https://github.com/user-attachments/assets/332f8b5a-d8f6-4cd9-9318-365ccb5d4347)
 
 Home page
 ![image](https://github.com/user-attachments/assets/1f3becb7-6471-45e7-be28-cd2b38ced735)
